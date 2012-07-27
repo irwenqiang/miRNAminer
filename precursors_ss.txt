@@ -1,0 +1,12 @@
+>1
+GCUGCAAGACUUAGUAAAAAAGGAUUUCAAGUGGAAGUAUAUGAAAAAAAUUCGUAUAACGGUGGAAGAUGUUCAAUAAUUCGCCAUAAUGGACAUCGAUUUGAUCAAGGACCAUCAUUAUAUUUGAUGCCAAAAAUAUUUGAGGAGACGUUUAAAGACU
+.........(((.........((...(((((((....((((((((.....))))))))..(((((..((((((((.((........)).))))))))..(((....)))..)))))....)))))))..))............(....).....)))... (-29.50)
+>2
+GCUGCAAGACUUAGUAAAAAAGGAUUUCAAGUGGAAGUAUAUGAAAAAAAUUCGUAUAACGGUAGAAGAUGUUCAAUAAUUCGCCAUAAUGGACAUCGAUUUGAUCAAGGACCAUCAUUAUAUUUGAUGCCAAAAAUAUUUGAGGAGACGUUUAAAGACU
+.........(((..((((...(..(((((((((....((((((((.....))))))))..(((....((((((((.((........)).))))))))......)))..((..(((((.......))))))).....))))))).))..).)))))))... (-26.10)
+>3
+GCUGCAAGACUUAGUAAAAAAGGAUUUCAAGUGGAAGUAUAUGAAAAAAAUUCGUAUAACGGUAGAAGAUGUUCAAUAAUUCGCCAUAAUGGACAUCGAUUUGAUCAAGGACCAUCAUUAUAUUUGAUGCCAAAAAUAUUUGAGGAGACGUUUAAAGACU
+.........(((..((((...(..(((((((((....((((((((.....))))))))..(((....((((((((.((........)).))))))))......)))..((..(((((.......))))))).....))))))).))..).)))))))... (-26.10)
+>4
+GCUGCAAGACUUAGUAAAAAAGGAUUUCAAGUGGAAGUAUAUGAAAAAAAUUCGUAUAACGGUGGAAGAUGUUCAAUAAUUCGCCAUAAUGGACAUCGAUUUGAUCAAGGACCAUCAUUAUAUUUGAUGCCAAAAAUAUUUGAGGAGACGUUUAAAGACU
+.........(((.........((...(((((((....((((((((.....))))))))..(((((..((((((((.((........)).))))))))..(((....)))..)))))....)))))))..))............(....).....)))... (-29.50)

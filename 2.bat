@@ -1,0 +1,1 @@
+svmpredict -b 1 feature1.txt feature_mi.model svmout.txt
